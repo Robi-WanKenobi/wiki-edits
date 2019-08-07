@@ -1,0 +1,23 @@
+.mod {
+  max-width: 100%;
+  text-align: center;
+  padding-top: 20px;
+}
+.mod.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.mod .card {
+  background-color: #F4F9F9;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-color: #AFC4DB;
+  border-radius: 0;
+}
+svg {
+  margin-bottom: 3px;
+}
+.alert {
+  border: none !important;
+  border-radius: 0 !important;
+}
